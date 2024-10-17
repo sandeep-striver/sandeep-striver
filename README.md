@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @sandeep-striver
-- 👀 I’m an  Android devlopment.
-- 💞️ I’m looking to collaborate on interactive projects with Java,Flutter and Kotlin
-- 📫 YOU can reach me through LinkedIn ID - https://www.linkedin.com/in/sandeep-chaudhary-147ab5281/
+- 👀 I’m an  Android developer.
+- 💞️ I want to collaborate on interactive projects with Java, Flutter.
+- 😋 I’m also curious about AI /ML.
+- 📫 YOU can reach me through my LinkedIn ID - https://www.linkedin.com/in/sandeep-chaudhary-147ab5281/
 
 - Holopin Batches
-- 
+  
 - [![An image of @sandeepstriver's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandeepstriver)](https://holopin.io/@sandeepstriver)
 
 <!---
