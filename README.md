@@ -10,8 +10,8 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning AI
+- 🔭 I’m a Flutter developer
+- 🌱 I am exploring AI
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: sandeepchaudhary2411@gmail.com
 - 😄 My website: https://
